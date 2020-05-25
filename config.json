@@ -1,1 +1,10 @@
-{ "port": 8000 }
+{
+  "port": 8000,
+  "privateApiEndpoints": ["private_endpoint"],
+  "mysqlConfig": {
+    "host": "127.0.0.1",
+    "user": "root",
+    "password": "1",
+    "database": "mydb"
+  }
+}
