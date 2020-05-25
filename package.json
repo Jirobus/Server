@@ -1,0 +1,24 @@
+{
+  "name": "jirobus-server",
+  "version": "0.0.1",
+  "description": "Сервер системи керування проектами сталої якості Jirobus",
+  "main": "server.js",
+  "dependencies": {
+    "mysql2": "^2.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jirobus/Server.git"
+  },
+  "author": "IP-83 subteam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jirobus/Server/issues"
+  },
+  "homepage": "https://github.com/Jirobus/Server#readme"
+}
